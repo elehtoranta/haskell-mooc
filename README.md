@@ -1,6 +1,21 @@
 # Haskell MOOC
 
+## Forker's note
+
+This is an online course on Functional Programming that uses the Haskell programming language.
+Per original authors, all material and exercises are openly available (as of writing, subject to change).
+
+This fork is used for working on and returning exercises of the course.
+
+See more at: [Haskell MOOC](https://haskell.mooc.fi)
+
+Course authors: Joel Kaasinen [Nitor](https://nitor.com/en) and John Lång (University of Helsinki)
+
+----------------------------------------------------------------------------------------------
+## [Official repo](https://github.com/moocfi/haskell-mooc) content
+
 <p align="center"><img alt="Course logo" src="img/haskell-mooc-logo.svg" width="400" align="center"></p>
+
 
 University of Helsinki
 
