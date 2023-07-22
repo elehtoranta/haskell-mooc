@@ -9,7 +9,7 @@ This fork is used for working on and returning exercises of the course.
 
 See more at: [Haskell MOOC](https://haskell.mooc.fi)
 
-Course authors: Joel Kaasinen [Nitor](https://nitor.com/en) and John Lång (University of Helsinki)
+Course authors: Joel Kaasinen ([Nitor](https://nitor.com/en)) and John Lång (University of Helsinki)
 
 ----------------------------------------------------------------------------------------------
 ## [Official repo](https://github.com/moocfi/haskell-mooc) content
